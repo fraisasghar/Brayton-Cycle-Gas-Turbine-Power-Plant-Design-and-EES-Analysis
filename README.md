@@ -16,3 +16,6 @@
   <img src="https://img.shields.io/badge/Regenerator-90%25-2196F3?style=for-the-badge" />
 </div>
 
+## Introduction
+
+This Project Presents the Design and thermodynamic analysis of a **13.52 MW gas turbine power plant** using Regenerative Brayton cycle with two-stage intercooled compression and two-stage reheated expansion. Performance comparison between ideal cycle (68.9% efficiency, 24 kg/s) and real cycle (20.25% efficiency, 137.11 kg/s) considering compressor efficiency (79%), turbine efficiency (52%), and regenerator effectiveness (90%). Includes **EES simulation** of the complete cycle.
