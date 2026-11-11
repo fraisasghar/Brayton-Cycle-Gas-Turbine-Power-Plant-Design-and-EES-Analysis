@@ -1,5 +1,5 @@
 
-<!--------|---------|---------|------------------- Main Banner  ----------------------------------------------------------------->
+<!--------|---------|---------|------------------- Main Banner  ---------------------------------------------------------------->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a6186,100:89253e&height=200&section=header&text=Brayton%20Cycle&fontSize=48&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=Gas%20Turbine%20Power%20Plant%20|%20Intercooling%20|%20Reheat%20|%20Regeneration%20|%20EES&descAlign=50&descAlignY=88&descSize=18&descColor=fce4ec&shadow=true" alt="Header" />
